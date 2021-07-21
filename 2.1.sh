@@ -1,6 +1,6 @@
 #! /bin/bash
 
-echo "Введите число bla-bla"
+echo "Введите число"
 read num
 
 for (( i=1; i <= $num; i++ ))
